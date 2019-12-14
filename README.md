@@ -1,5 +1,5 @@
 # redemrp_infection
-This resource add's a disease in Armadillo
+This resource adds a disease in Armadillo
 
 ## 1. Installation
 add ```ensure redemrp_infection``` to your server.cfg
