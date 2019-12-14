@@ -1,13 +1,10 @@
 # redemrp_infection
- A simple Armadillo Infection system for RedEM:RP
-
-## 1. Description
 This resource add's a disease in Armadillo
 
-## 2. Installation
+## 1. Installation
 add ```ensure redemrp_infection``` to your server.cfg
 
-## 3. Configuration
+## 2. Configuration
 ```
 Config = {}
 Config.msg = "You are getting sick..." -- Displays when Player is in infected area.
@@ -18,5 +15,5 @@ Config.SafeTime = 90000 -- SafeTime after dead, player can't get hurt before tim
 Config.PlagueDistance = 65.0 -- Distance of the plague. DEFAULT: 65
 ```
 
-## 4. Credits
+## 3. Credits
 [amakuu](https://github.com/amakuu/)
