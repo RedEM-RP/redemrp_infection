@@ -36,7 +36,7 @@ Citizen.CreateThread(function()
 						if sick > Config.TimeMax then
 						ApplyDamageToPed(playerPed, Config.HurtAmount, true, true, true, true)
 						applyDmg()
-						print("APPLYING DAMAGE")
+						--print("APPLYING DAMAGE")
 						else end
 				end
 	end
